@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="80" started-at="2022-01-09T17:37:17 IST" finished-at="2022-01-09T17:37:18 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="80" started-at="2022-01-09T17:37:17 IST" finished-at="2022-01-09T17:37:18 IST">
+      <class name="mrs1Maven.JavaMaven.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:mrs1Maven.JavaMaven.SeleniumTest@4493d195]" name="BrowserAutomation" duration-ms="1" started-at="2022-01-09T17:37:18 IST" finished-at="2022-01-09T17:37:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="Elementui()[pri:0, instance:mrs1Maven.JavaMaven.SeleniumTest@4493d195]" name="Elementui" duration-ms="0" started-at="2022-01-09T17:37:18 IST" finished-at="2022-01-09T17:37:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Elementui -->
+      </class> <!-- mrs1Maven.JavaMaven.SeleniumTest -->
+      <class name="mrs1Maven.JavaMaven.AppiumTest">
+        <test-method status="PASS" signature="AndroidApps()[pri:0, instance:mrs1Maven.JavaMaven.AppiumTest@3712b94]" name="AndroidApps" duration-ms="6" started-at="2022-01-09T17:37:17 IST" finished-at="2022-01-09T17:37:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidApps -->
+        <test-method status="PASS" signature="IosApps()[pri:0, instance:mrs1Maven.JavaMaven.AppiumTest@3712b94]" name="IosApps" duration-ms="0" started-at="2022-01-09T17:37:18 IST" finished-at="2022-01-09T17:37:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IosApps -->
+      </class> <!-- mrs1Maven.JavaMaven.AppiumTest -->
+      <class name="mrs1Maven.JavaMaven.RestAPITest">
+        <test-method status="PASS" signature="PostJira()[pri:0, instance:mrs1Maven.JavaMaven.RestAPITest@6ee52dcd]" name="PostJira" duration-ms="1" started-at="2022-01-09T17:37:18 IST" finished-at="2022-01-09T17:37:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:mrs1Maven.JavaMaven.RestAPITest@6ee52dcd]" name="deleteTwitter" duration-ms="1" started-at="2022-01-09T17:37:18 IST" finished-at="2022-01-09T17:37:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+      </class> <!-- mrs1Maven.JavaMaven.RestAPITest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
