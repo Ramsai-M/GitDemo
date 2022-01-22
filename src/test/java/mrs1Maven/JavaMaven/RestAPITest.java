@@ -11,6 +11,7 @@ public class RestAPITest {
 	@Test
 	public void deleteTwitter() {
 		System.out.println("Now we can Delete Twitter");
+		System.out.println("Now we can Delete Twitter1");
 	}
 
 }
